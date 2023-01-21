@@ -8,3 +8,7 @@ if one == 'one':
 
 print('this is an update to test one')
 time.sleep(5)
+
+print('this is the second update to test one')
+time.sleep(5)
+
