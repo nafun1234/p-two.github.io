@@ -22,6 +22,8 @@ print('this is the second update to test one in first branch')
 time.sleep(5)
 
 
-print('this is added to test push command')
-time.sleep(5)
+# print('this is added to test push command')
+# time.sleep(5)
 
+print('I commented two lines of code')
+time.sleep(5)
