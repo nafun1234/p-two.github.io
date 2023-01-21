@@ -15,4 +15,9 @@ time.sleep(5)
 print('this is an update to test one in emergency fix')
 time.sleep(5)
 
+print('this is the first update to test one in first branch')
+time.sleep(5)
+
+print('this is the second update to test one in first branch')
+time.sleep(5)
 
